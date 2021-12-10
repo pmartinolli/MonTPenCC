@@ -4,7 +4,7 @@
 
 * [Fichier original sur Google Drawings](https://docs.google.com/drawings/d/17stM1IWPrpJa7_PWLMmSXv2xsyDI3bFhmhHSw3ynfDk/edit?usp=sharing) (consignes de réutilisation dans le document)
 
-* Autres formats : PDF, PNG et SVG (pas ODP hélas, je n'ai pas réussi l'exportation depuis Google Drawings)
+* Autres formats : PDF, PNG et SVG (ODP non disponible)
 
 [![](https://raw.githubusercontent.com/pmartinolli/MonTPenCC/main/Partager-mon-TP-sous-CC.png)](https://raw.githubusercontent.com/pmartinolli/MonTPenCC/main/Partager-mon-TP-sous-CC.png)
 
