@@ -6,7 +6,7 @@
 
 * Autres formats : PDF, PNG et SVG (pas ODP hélas, je n'ai pas réussi l'exportation depuis Google Drawings)
 
-
+[![](https://raw.githubusercontent.com/pmartinolli/MonTPenCC/main/Partager-mon-TP-sous-CC.png)](https://raw.githubusercontent.com/pmartinolli/MonTPenCC/main/Partager-mon-TP-sous-CC.png)
 
 ## Métadonnées / *Metadata* :
 
